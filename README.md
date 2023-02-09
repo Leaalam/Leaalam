@@ -2,7 +2,7 @@
 
 ## ABOUT ME
 
-:raising_hand: I'm a sophomore Computer Science student.
+:raising_hand: I'm a junior Computer Science student.
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 - 🎓 College student
 
